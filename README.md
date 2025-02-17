@@ -1,6 +1,4 @@
 # A-Trip-into-the-Space
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ITASerus/A-Trip-into-the-Space/total?style=for-the-badge)
-
 Welcome to my submission for the WWDC 2018 Scholarship! It's a very simple game made using SpriteKit.
 
 **Description**
